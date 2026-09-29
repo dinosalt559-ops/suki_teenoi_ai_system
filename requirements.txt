@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+pymysql
+pandas
+numpy
+lightgbm
+scikit-learn
+joblib
+openpyxl
